@@ -1,7 +1,11 @@
 # PC Assembling Lab - Reflection
 
+
 ## Overview
 The PC Assembling Lab was an engaging and fun experience that I got to have with my team, we took out the tower components of our PC and reassembled then the DR gave us a quiz on it.
+Here’s a photo from the lab showing the disassembled PC components:
+
+![Disassembled PC Tower](./images/pc.png)
 
 ## Key Takeaways
 - **Component Exploration**: During the lab, we removed and examined key components of the tower using a PHILLIPS SCREW DRIVER, including:
