@@ -4,7 +4,7 @@
 ## Overview
 The PC Assembling Lab was an engaging and fun experience that I got to have with my team, we took out the tower components of our PC and reassembled then the DR gave us a quiz on it.
 Here’s a photo from the lab showing the disassembled PC components:
-<img src="./images/pc.jpg" alt="Disassembled PC" width="200"/>
+<img src="./images/pc.jpg" alt="Disassembled PC" width="400"/>
 ![Disassembled PC Tower](./images/pc.jpg)
 
 ## Key Takeaways
