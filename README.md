@@ -5,17 +5,19 @@
 The PC Assembling Lab was an engaging and fun experience that I got to have with my team, we took out the tower components of our PC and reassembled then the DR gave us a quiz on it.
 Here’s a photo from the lab showing the disassembled PC components:
 <img src="./images/pc.jpg" alt="Disassembled PC" width="400"/>
-![Disassembled PC Tower](./images/pc.jpg)
 
 ## Key Takeaways
 - **Component Exploration**: During the lab, we removed and examined key components of the tower using a PHILLIPS SCREW DRIVER, including:
   - **Power Supply Unit (PSU)**: Learned about its role in distributing power to various components and its wiring connections.
   - **Hard Disk Drive (HDD)**: Understood its function in data storage and how it interfaces with the motherboard.
-    ![Hard Disk Drive](./images/hdd.jpg)
-  - **RAM**: Identified the physical differences, purposes, and installation process for these memory units and examined its capaci
-    ![RAM](./images/ram.jpg)
-  - **Cooling System**: Observed the fan setup and its role in maintaining system temperature.'
-    ![Cooling Fan](./images/fan.jpg)
+    <img src="./images/hdd.jpg" alt="Hard Disk Drive" width="400"/>
+
+  - **RAM**: Identified the physical differences, purposes, and installation process for these memory units and examined its capacity.
+    <img src="./images/ram.jpg" alt="RAM" width="400"/>
+
+  - **Cooling System**: Observed the fan setup and its role in maintaining system temperature.
+    <img src="./images/fan.jpg" alt="Cooling Fan" width="400"/>
+
 - **Connection Understanding**: Studied the wiring and connections between components, such as power cables, graphical card and peripheral connectors, and how they enable communication within the system.
 - **Reassembly and Testing**: Reassembled the system and ensured proper functionality.
 
